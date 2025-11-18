@@ -1,0 +1,18 @@
+	14/11/2025
+1)Why Only One Parent Element in JSX?
+2)Why Don't We Push node_modules to Git?
+3)why react component start with an uppercase - code explain short + important answers
+4)dependency vs devdependency
+5)React UI framework for you?
+	15/11/2025
+6)Component vs function in React?
+7)named export vs default export in React?
+8)Change Imported component name in React?
+9)JSX full form Confusion
+10)Variable vs State in React component
+	18/11/2025 - 15 
+11)Ternary Operator
+12)is React and JSX same or different
+13)Explain version React - '18.3.1'
+14)useId hook in react js
+15)What is default props
