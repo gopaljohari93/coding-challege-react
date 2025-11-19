@@ -8,6 +8,10 @@ import CmvsFun from "./components/CmvsFun";
 import VariablevsState from "./components/VariablevsState";
 import TernaryOperator from "./components/TernaryOperator";
 import DefaultProps from "./components/DefaultProps";
+import ControlledComponent from "./components/ControlledComponent";
+import UpdateProps from "./components/UpdateProps";
+import IfelseStatement from "./components/IfelseStatement";
+import Hooks from "./components/Hooks";
 
 const App = () => {
   return (
@@ -20,9 +24,14 @@ const App = () => {
       <AdminLogin /> */}
       {/* <VariablevsState /> */}
       {/* <TernaryOperator /> */}
-      <DefaultProps name={"gopal j"} />
+      {/* <DefaultProps name={"gopal j"} />
       <DefaultProps name={"peter"} />
-      <DefaultProps name={"sam"} />
+      <DefaultProps name={"sam"} /> */}
+
+      {/* <ControlledComponent /> */}
+      {/* <UpdateProps name={"gopal johari"} /> */}
+      {/* <IfelseStatement /> */}
+      <Hooks />
     </>
   );
 };
